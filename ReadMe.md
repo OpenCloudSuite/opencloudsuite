@@ -11,6 +11,7 @@ OpenCloudSuite is a microservices-based application designed for file storage an
 - [Metadata Service](https://github.com/OpenCloudSuite/metadata-service)
 - [User Profile Service](https://github.com/OpenCloudSuite/user-profile-service)
 - [API Gateway](https://github.com/OpenCloudSuite/api-gateway)
+- [Websocket Gateway](https://github.com/OpenCloudSuite/websocket-gateway)
 
 ## Setup and Deployment
 To set up and deploy the entire OpenCloudSuite, run the following command:
